@@ -1,2 +1,2 @@
-# Mathematics_for_engineering
-harryworlds/Mathematics_by_harry_worlds
+# Mathematics for Engineering
+
